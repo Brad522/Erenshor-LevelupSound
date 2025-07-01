@@ -8,6 +8,8 @@ The following file extensions are supported:
 - `.mp3`
 - `.ogg`
 
+No audio file is included with this mod, you must add your own to the mod's folder for anything to change.
+
 # Requirements
 BepInEx 5 is required for this mod to work.
 
